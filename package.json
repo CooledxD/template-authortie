@@ -1,0 +1,26 @@
+{
+  "name": "template-authortie",
+  "version": "1.0.0",
+  "description": "- HTML\r - CSS\r - OOCSS + BEM naming\r - Emmet\r - Webpack\r - Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=development&&webpack serve",
+    "dev": "set NODE_ENV=development&&webpack",
+    "build": "set NODE_ENV=production&&webpack",
+    "clean": "rd /s /q dist"
+  },
+  "author": "CooledxD <scribe_85@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.7.1",
+    "handlebars": "^4.7.7",
+    "handlebars-loader": "^1.7.1",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.6.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  }
+}
