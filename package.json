@@ -9,8 +9,16 @@
     "build": "set NODE_ENV=production&&webpack",
     "clean": "rd /s /q dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CooledxD/template-authortie.git"
+  },
   "author": "CooledxD <scribe_85@mail.ru>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CooledxD/template-authortie/issues"
+  },
+  "homepage": "https://github.com/CooledxD/template-authortie#readme",
   "devDependencies": {
     "cross-env": "^7.0.3",
     "css-loader": "^6.7.1",
