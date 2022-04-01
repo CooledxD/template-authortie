@@ -1,0 +1,66 @@
+/* Roboto */
+
+@font-face {
+  font-family: 'robotoblack';
+  src: url('../../fonts/roboto/roboto-black.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotobold';
+  src: url('../../fonts/roboto/roboto-bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotomedium';
+  src: url('../../fonts/roboto/roboto-medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'robotoregular';
+  src: url('../../fonts/roboto/roboto-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* GraphikLCG */
+
+@font-face {
+  font-family: 'graphiklcg_black';
+  src: url('../../fonts/graphiklcg/graphiklcg-black.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'graphiklcg_bold';
+  src: url('../../fonts/graphiklcg/graphiklcg-bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'graphiklcg_semibold';
+  src: url('../../fonts/graphiklcg/graphiklcg-semibold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'graphiklcg_medium';
+  src: url('../../fonts/graphiklcg/graphiklcg-medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'graphiklcg_regular';
+  src: url('../../fonts/graphiklcg/graphiklcg-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}

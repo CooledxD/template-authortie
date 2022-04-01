@@ -1,0 +1,22 @@
+/* Button */
+
+.btn_primary {
+  color: var(--bleu-de-france);
+  border: 1px solid var(--bleu-de-france);
+  border-radius: 123px;
+
+  font-family: graphiklcg_medium, sans-serif;
+  font-size: 0.875rem;
+  line-height: 0.875rem;
+  letter-spacing: 2%;
+  text-transform: uppercase;
+}
+
+/* Nav */
+
+.nav__link_primary {
+  color: var(--basalt-grey);
+  font-family: graphiklcg_regular, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.125rem;
+}

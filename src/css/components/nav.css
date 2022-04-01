@@ -1,0 +1,16 @@
+.nav {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(max-content, auto));
+  justify-items: end;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.nav__item {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.nav-right {
+  grid-template-columns: 1fr repeat(2, minmax(max-content, 53px));
+}
