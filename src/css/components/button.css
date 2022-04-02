@@ -1,6 +1,15 @@
 .btn {
+  display: inline-block;
   white-space: nowrap;
   text-align: center;
   vertical-align: middle;
   padding: 12px 33px 10px 34px;
+}
+
+.btn-bleu {
+  display: inline-block;
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: middle;
+  padding: 15px 44.22px 14px 43px;
 }

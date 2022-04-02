@@ -12,6 +12,18 @@
   text-transform: uppercase;
 }
 
+.btn-bleu_primary {
+  background-color: var(--bleu-de-france);
+  color: var(--white);
+  border-radius: 123px;
+
+  font-family: robotobold, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.318125rem;
+  letter-spacing: 4%;
+  text-transform: uppercase;
+}
+
 /* Nav */
 
 .nav__link_primary {
@@ -19,4 +31,27 @@
   font-family: graphiklcg_regular, sans-serif;
   font-size: 1.125rem;
   line-height: 1.125rem;
+}
+
+/* Title */
+
+.title_hero {
+  font-family: graphiklcg_bold, sans-serif;
+  font-size: 3.125rem;
+  line-height: 3.296875rem;
+  color: var(--grey-umber);
+}
+
+/* Text */
+
+.text_hero {
+  font-family: graphiklcg_regular, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.55rem;
+}
+
+/* Hero */
+
+.hero_primary {
+  background: linear-gradient(to right, #fff, #CCE7FF );
 }
