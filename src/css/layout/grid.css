@@ -13,6 +13,8 @@
   gap: 20px;
 }
 
+/* Column span */
+
 .col-2 {
   grid-column-end: span 2;
 }
@@ -56,6 +58,8 @@
 .col-12 {
   grid-column-end: span 12;
 }
+
+/* Column star */
 
 .col-start-2 {
   grid-column-start: 2;
@@ -103,4 +107,32 @@
 
 .col-start-12 {
   grid-column-start: 12;
+}
+
+/* Justify self */
+
+.justify-self-end {
+  justify-self: end;
+}
+
+.justify-self-start {
+  justify-self: start;
+}
+
+.justify-self-center {
+  justify-self: center;
+}
+
+/* Align self */
+
+.self-start	{
+  align-self: start;
+}
+
+.self-end	{
+  align-self: end;
+}
+
+.self-center {
+  align-self: center;
 }

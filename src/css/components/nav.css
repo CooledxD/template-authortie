@@ -1,16 +1,11 @@
-.nav {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(max-content, auto));
-  justify-items: end;
-  align-items: center;
-  white-space: nowrap;
-}
-
 .nav__item {
-  padding-left: 15px;
-  padding-right: 15px;
+  display: inline-block;
+  padding-left: 22px;
+  padding-right: 22px;
+  vertical-align: middle;
 }
 
-.nav-right {
-  grid-template-columns: 1fr repeat(2, minmax(max-content, 53px));
+.nav-right__item {
+  padding-left: 22px;
+  padding-right: 0;
 }
