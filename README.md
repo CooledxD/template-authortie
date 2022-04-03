@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-%231572B6?style=flat&logo=css3)
 ![](https://img.shields.io/badge/Tools-Figma-%23F24E1E?style=flat&logo=figma)
 ![](https://img.shields.io/badge/Tools-npm-%23CB3837?style=flat&logo=npm)
-![](https://img.shields.io/badge/Tools-Node.js-%23339933?style=flat&logo=node.js)
+![](https://img.shields.io/badge/Tools-nvm-%23339933?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/Tools-webpack.js-%238DD6F9?style=flat&logo=webpack)
 ![](https://img.shields.io/badge/Tools-Handlebars.js-%23000000?style=flat&logo=handlebarsdotjs)
 
@@ -20,7 +20,7 @@ My implementation of the "Authortie" template based on a layout from the figma s
 * Webpack
 * Handlebars
 
-## 📖	Style guide
+## 📖 Style guide
 
 ### Formatting
 
