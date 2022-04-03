@@ -19,6 +19,9 @@
     "url": "https://github.com/CooledxD/template-authortie/issues"
   },
   "homepage": "https://github.com/CooledxD/template-authortie#readme",
+  "engines": {
+    "node": "16.14.0"
+  },
   "devDependencies": {
     "cross-env": "^7.0.3",
     "css-loader": "^6.7.1",
