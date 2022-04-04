@@ -1,0 +1,31 @@
+.how-it-works {
+  padding-top: 127px;
+}
+
+.how-it-works__container {
+  padding-top: 54px;
+
+  display: grid;
+  grid-template-columns: repeat(7, max-content);
+  justify-content: space-between;
+}
+
+.how-it-works__wrap {
+  display: grid;
+  width: 266px;
+  height: 267px;
+  justify-content: center;
+  align-content: center;
+}
+
+.how-it-works__text {
+  padding-top: 32px;
+  text-align: center;
+  max-width: 263px;
+  height: calc(38px + 32px);
+}
+
+.how-it-works__arrow {
+  padding-bottom: 79px;
+  align-self: center;
+}

@@ -1,10 +1,12 @@
 .container {
-  max-width: calc(1605px + 10px);
+  max-width: calc(1595px + 20px);
   padding-left: 10px;
   padding-right: 10px;
   margin-right: auto;
   margin-left: auto;
 }
+
+/* Grid */
 
 .grid-max-content {
   display: grid;
@@ -15,9 +17,8 @@
 
 .grid {
   display: grid;
-  grid-template-rows: repeat(1, minmax(max-content, 1fr));
   grid-template-columns: repeat(12, minmax(0, 1fr));
-  gap: 20px;
+  column-gap: 20px;
 }
 
 /* Column span */

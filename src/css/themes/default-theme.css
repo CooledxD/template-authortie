@@ -35,6 +35,13 @@
 
 /* Title */
 
+.title_primary {
+  font-family: graphiklcg_bold, sans-serif;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  color: var(--black-and-olive);
+}
+
 .title_hero {
   font-family: graphiklcg_bold, sans-serif;
   font-size: 3.125rem;
@@ -50,8 +57,28 @@
   line-height: 1.55rem;
 }
 
+.text_how-it-works {
+  font-family: graphiklcg_regular, sans-serif;
+  font-size: 1rem;
+  line-height: 1.145rem;
+  color: var(--grey-umber);
+
+}
+
 /* Hero */
 
 .hero_primary {
   background: linear-gradient(to right, #fff, #CCE7FF );
+}
+
+/* How it works */
+
+.how-it-works_primary {
+  background-color: var(--ghost-white);
+}
+
+.how-it-works__wrap_primary {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 3px 17px rgba(43, 123, 211, 0.06);
 }
